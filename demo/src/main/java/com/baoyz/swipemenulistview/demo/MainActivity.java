@@ -45,6 +45,7 @@ public class MainActivity extends Activity {
         //add to test git
         //in dev branch: add data
         //this is add tag later data
+        //add file tag
     }
 
     public void onClick(View v){

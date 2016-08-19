@@ -39,8 +39,8 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //add to test git 
-
+        //add to test git
+        //in dev branch: add data
     }
 
     public void onClick(View v){

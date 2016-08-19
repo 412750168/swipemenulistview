@@ -41,6 +41,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         //add to test git 
         //add this data int master/remote 
+        //add data remote/second
 
     }
 

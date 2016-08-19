@@ -42,6 +42,7 @@ public class MainActivity extends Activity {
         //add to test git 
         //add this data int master/remote 
         //add data remote/second
+        //add data remote/third
         //add data locale/first
     }
 

@@ -40,7 +40,7 @@ public class MainActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //add to test git 
-
+        //add data in local master
     }
 
     public void onClick(View v){
